@@ -107,3 +107,5 @@ InitTestScene*.unity*
 
 # To fix github error
 /[Aa]ssets/ThirdParty
+/[Aa]ssets/[Ff]ont
+/[Aa]ssets/[Ff]onts
